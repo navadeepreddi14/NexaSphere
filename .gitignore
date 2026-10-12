@@ -1,0 +1,17 @@
+
+# React / Node
+node_modules/
+dist/
+.env
+.env.*
+
+# Spring Boot / Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
